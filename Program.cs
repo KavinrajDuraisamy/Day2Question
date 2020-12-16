@@ -25,7 +25,7 @@ namespace FirstApp
             char c = Convert.ToChar(Console.ReadLine());
             string d = Console.ReadLine();
             Console.WriteLine($"a={a} \nb={b} \nc={c} \nd={d}");
-
+            Console.WriteLine("edited from newtry");
         }
     }
 }
