@@ -1,0 +1,7 @@
+F:\Software\Git\GitLearn\day 2 afternoon\Day2question\Prime Number\Prime_number\bin\Debug\Prime_number.exe.config
+F:\Software\Git\GitLearn\day 2 afternoon\Day2question\Prime Number\Prime_number\bin\Debug\Prime_number.exe
+F:\Software\Git\GitLearn\day 2 afternoon\Day2question\Prime Number\Prime_number\bin\Debug\Prime_number.pdb
+F:\Software\Git\GitLearn\day 2 afternoon\Day2question\Prime Number\Prime_number\obj\Debug\Prime_number.csprojAssemblyReference.cache
+F:\Software\Git\GitLearn\day 2 afternoon\Day2question\Prime Number\Prime_number\obj\Debug\Prime_number.csproj.CoreCompileInputs.cache
+F:\Software\Git\GitLearn\day 2 afternoon\Day2question\Prime Number\Prime_number\obj\Debug\Prime_number.exe
+F:\Software\Git\GitLearn\day 2 afternoon\Day2question\Prime Number\Prime_number\obj\Debug\Prime_number.pdb
